@@ -1,0 +1,203 @@
+{
+  "estadisticas": {
+    "total_documentos": 10,
+    "total_tokens": 15830,
+    "vocabulario_unico": 1921,
+    "total_oraciones": 477,
+    "promedio_tokens_por_doc": 1583.0
+  },
+  "entidades": {
+    "PER": {
+      "Ganimian": 5,
+      "Mercedes Miguel": 4,
+      "Cecilia Veleda": 3,
+      "Tomás Besada": 3,
+      "Martín Nistal": 3,
+      "Bruno Videla": 3,
+      "Becerra": 3,
+      "Romero": 3,
+      "Tomás": 3,
+      "Viviana Postay": 2
+    },
+    "ORG": {
+      "PUBLICIDAD": 52,
+      "Supervisión Escolar": 3,
+      "Consejo Federal de Educación": 2,
+      "Dirección General de Cultura y Educación": 2,
+      "Subsecretaría de Información y Evaluación Educativa": 2,
+      "Historia": 2,
+      "Universidad de Buenos Aires": 2,
+      "IA": 2,
+      "Infobae": 1,
+      "Mis Estudiantes": 1
+    },
+    "LOC": {
+      "Argentinos": 14,
+      "Argentina": 14,
+      "Educación": 12,
+      "CABA": 9,
+      "Mendoza": 8,
+      "Estado": 4,
+      "Ciudad de Buenos Aires": 4,
+      "Alemania": 3,
+      "provincia de Buenos Aires": 3,
+      "Ministerio de Educación": 3
+    },
+    "MISC": {
+      "Aprender": 7,
+      "Me": 6,
+      "Educación": 5,
+      "ArgentinaALaEscuela": 4,
+      "Postay": 3,
+      "Lion": 3,
+      "Campaña Nacional por la Alfabetización": 2,
+      "Solo en Bélgica": 2,
+      "El problema": 2,
+      "Por un lado": 2
+    }
+  },
+  "verbos_principales": [
+    [
+      "faltar",
+      36
+    ],
+    [
+      "empezar",
+      33
+    ],
+    [
+      "permitir",
+      20
+    ],
+    [
+      "generar",
+      15
+    ],
+    [
+      "aprender",
+      15
+    ],
+    [
+      "buscar",
+      13
+    ],
+    [
+      "explicar",
+      13
+    ],
+    [
+      "mostrar",
+      13
+    ],
+    [
+      "perder",
+      12
+    ],
+    [
+      "destacar",
+      11
+    ],
+    [
+      "pensar",
+      11
+    ],
+    [
+      "reducir",
+      10
+    ],
+    [
+      "advertir",
+      10
+    ],
+    [
+      "analizar",
+      10
+    ],
+    [
+      "trabajar",
+      10
+    ]
+  ],
+  "palabras_clave": [
+    [
+      "escuela",
+      109
+    ],
+    [
+      "estudiante",
+      77
+    ],
+    [
+      "ausentismo",
+      72
+    ],
+    [
+      "publicidad",
+      65
+    ],
+    [
+      "escolar",
+      57
+    ],
+    [
+      "educación",
+      53
+    ],
+    [
+      "dato",
+      45
+    ],
+    [
+      "docente",
+      44
+    ],
+    [
+      "tiempo",
+      43
+    ],
+    [
+      "problema",
+      42
+    ],
+    [
+      "aprendizaje",
+      42
+    ],
+    [
+      "nivel",
+      42
+    ],
+    [
+      "educativo",
+      40
+    ],
+    [
+      "falta",
+      37
+    ],
+    [
+      "chico",
+      36
+    ],
+    [
+      "clase",
+      35
+    ],
+    [
+      "asistencia",
+      35
+    ],
+    [
+      "alumno",
+      33
+    ],
+    [
+      "sistema",
+      33
+    ],
+    [
+      "familia",
+      32
+    ]
+  ]
+}
