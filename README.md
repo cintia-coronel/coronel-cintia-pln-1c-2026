@@ -3,6 +3,7 @@
 
 
 **Profesor:** Matías Barreto
+
 **Cursada:** 1° cuatrimestre 2026
  
 Este repositorio reúne los trabajos prácticos, ejercicios de clase y proyectos integradores desarrollados a lo largo de la materia.
