@@ -1,5 +1,4 @@
 ---
----
 title: Archivo Historio SM
 emoji: 📚
 colorFrom: red
